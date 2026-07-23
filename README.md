@@ -1,4 +1,4 @@
-# Ujian Akhir Semester (UAS) — Machine Learning End-to-End
+# Ujian Akhir Semester (UAS) — Pembelajaran Mesin End-to-End
 **Mata Kuliah**: Pembelajaran Mesin  
 **Dosen Pengampu**: Aolia Ikhwanudin, S.Kom., M.Kom.  
 **Institusi**: Institut Teknologi Tangerang Selatan (ITTS)  
@@ -19,7 +19,7 @@
 
 Perusahaan e-commerce dan logistik mengalami kerugian operasional akibat keterlambatan pengiriman paket yang tidak terprediksi. Paket yang terlambat memicu keluhan pelanggan, denda kompensasi, dan penurunan kepuasan konsumen. 
 
-Sistem Machine Learning End-to-End ini dibangun untuk **mengidentifikasi dan memprediksi paket yang berisiko terlambat** sebelum dikirimkan. Dengan mendeteksi paket berisiko tinggi secara dini, tim operasional logistik dapat memprioritaskan paket tersebut ke jalur pengiriman ekspres premium atau melakukan optimasi rute.
+Sistem Pembelajaran Mesin End-to-End ini dibangun untuk **mengidentifikasi dan memprediksi paket yang berisiko terlambat** sebelum dikirimkan. Dengan mendeteksi paket berisiko tinggi secara dini, tim operasional logistik dapat memprioritaskan paket tersebut ke jalur pengiriman ekspres premium atau melakukan optimasi rute.
 
 ---
 

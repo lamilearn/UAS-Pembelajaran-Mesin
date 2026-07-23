@@ -1,0 +1,18 @@
+# Data and model artifacts (ignored per project instructions)
+data/
+models/*.joblib
+models/*.json
+!models/.gitkeep
+!data/.gitkeep
+
+# Python virtual environment & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS & IDE files
+.DS_Store
+.idea/
+.vscode/

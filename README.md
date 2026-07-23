@@ -1,5 +1,6 @@
 # Ujian Akhir Semester (UAS) — Machine Learning End-to-End
-**Mata Kuliah**: Machine Learning End-to-End  
+**Mata Kuliah**: Pembelajaran Mesin  
+**Dosen Pengampu**: Aolia Ikhwanudin, S.Kom., M.Kom.  
 **Institusi**: Institut Teknologi Tangerang Selatan (ITTS)  
 **Kasus**: Kasus A — Klasifikasi: Prediksi Keterlambatan Pengiriman Paket (`POST /predict-keterlambatan`)
 

@@ -83,8 +83,8 @@ Ikuti langkah-langkah berikut untuk memproduksi ulang seluruh proyek dari clone 
 
 ### 1. Clone Repositori & Navigasi ke Folder
 ```bash
-git clone <URL_REPO_ANDA>
-cd uas-ml-<nim>
+git clone https://github.com/lamilearn/UAS-Pembelajaran-Mesin.git
+cd UAS-Pembelajaran-Mesin
 ```
 
 ### 2. Buat & Aktifkan Virtual Environment
